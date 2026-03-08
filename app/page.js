@@ -41,7 +41,7 @@ export default function Home() {
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
               <p className="text-red-800 dark:text-red-200 text-start text-sm">
-                Potential security loophole detected in website's hostname, path, or protocol. Recommend verifying URL structure for security risks.
+                Potential security loophole detected in website&apos;s hostname, path, or protocol. Recommend verifying URL structure for security risks.
               </p>
             </div>
             
