@@ -40,8 +40,8 @@ export default function Home() {
               <svg className="w-5 h-5 text-red-600 dark:text-red-400 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <p className="text-red-800 dark:text-red-200 text-sm">
-                Our systems detected unusual spam behavior originating from this page, which has been temporarily disabled to protect our services.
+              <p className="text-red-800 dark:text-red-200 text-start text-sm">
+                Potential security loophole detected in website's hostname, path, or protocol. Recommend verifying URL structure for security risks.
               </p>
             </div>
             
@@ -49,8 +49,8 @@ export default function Home() {
               <svg className="w-5 h-5 text-red-600 dark:text-red-400 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
-              <p className="text-red-800 dark:text-red-200 text-sm">
-                We&apos;re working to resolve this issue and restore normal service as quickly as possible.
+              <p className="text-red-800 dark:text-red-200 text-start text-sm">
+               Possible URL vulnerability. Check hostname, path, and protocol and authenticate domain database for complete data closure and eraser at the backend.
               </p>
             </div>
           </div>
